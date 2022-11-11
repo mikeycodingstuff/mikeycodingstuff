@@ -1,10 +1,10 @@
-# mikeycodingstuff
+<h1 align="center">👋 Hi I’m Mikey, an aspiring developer!</h1>
 
-### 👋 Hi I’m Mikey, an aspiring developer!
-
-I’m currently studying **Full Stack Development**.
+<p align="center"> iO Academy Graduate October 2022 </p>
 
 Check out my [portfolio](https://mikeycodingstuff.github.io/) for some of the projects I've worked on!
+
+Get in touch with me through [email](mailto:mikeyinguk+jobs@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/mikeyying/)!
 
 <!---
 mikeycodingstuff/mikeycodingstuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
