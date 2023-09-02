@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi I’m Mikey, an aspiring developer!</h1>
+<h1 align="center">👋 Hi I’m Mikey!</h1>
 
 <p align="center"> iO Academy Graduate October 2022 </p>
 
